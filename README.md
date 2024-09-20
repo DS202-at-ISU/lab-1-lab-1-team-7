@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/oocf_4W6)
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
@@ -18,4 +17,14 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
-This line is from RStudio -Brianna
+# 12.5: Push your local changes online to GitHub
+
+In pushing the local commit to the git repository, we encountered no
+issues. We used both the Graphical User Interface and the RStudio
+command line to try this process and both were successful.
+
+# 12.6: Confirm the local change propagated to the GitHub remote
+
+We both confirmed our changes went through smoothly. Each of us saw our
+edit appear in the GitHub repository and not interfere with the other’s
+addition.
