@@ -17,5 +17,24 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
+<<<<<<< HEAD
 \#12.2 Making the github repository 1.First we make a repository on our
 own github page. 2.
+=======
+This line is from RStudio -Brianna
+
+This is a line from Rstudio -Muhammad Raham Saleem
+
+# 12.5: Push your local changes online to GitHub
+
+In pushing the local commit to the git repository, we encountered no
+issues. We used both the Graphical User Interface and the RStudio
+command line to try this process and both were successful.
+
+# 12.6: Confirm the local change propagated to the GitHub remote
+
+We both confirmed our changes went through smoothly. Each of us saw our
+edit appear in the GitHub repository and not interfere with the other’s
+addition.
+
+>>>>>>> c2595fcd20824b6d0616bbce45e5c19ad6193010
