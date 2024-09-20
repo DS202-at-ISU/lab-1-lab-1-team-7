@@ -21,10 +21,10 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 # 12.2 Making the github repository
 1. we make a repository on     our own github page.
-2.name the repository "myrepo"
-3.add a description (this will appear in the readme file).
-4.Make it public
-5.Initialize the  with a README file.
+2. Name the repository "myrepo".
+3. Add a description (this will appear in the readme file).
+4. Make it public.
+5. Initialize the  with a README file.
 6. Click the "Create repository" button.
 7. Click the code button and copy the link under the HTTPS tab.
 
