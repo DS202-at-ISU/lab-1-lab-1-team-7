@@ -17,16 +17,16 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
-
 # 12.2 Making the github repository
 
-1.  we make a repository on our own github page.
-2.  Name the repository “myrepo”.
-3.  Add a description (this will appear in the readme file).
-4.  Make it public.
-5.  Initialize the with a README file.
-6.  Click the “Create repository” button.
-7.  Click the code button and copy the link under the HTTPS tab.
+1. we make a repository on our own github page. 
+2. Name the repository “myrepo”. 
+3. Add a description (this will appear in
+the readme file). 
+4. Make it public. 
+5. Initialize the with a README file. 
+6. Click the “Create repository” button. 
+7. Click the code button and copy the link under the HTTPS tab.
 
 # 12.3 Clone the test GitHub repository to your computer through RStudio
 
@@ -47,3 +47,15 @@ you are done with your submission.
 5.  add a message to the commit message such as “Commit message from
     RStudio”.
 6.  Click commit.
+
+# 12.5: Push your local changes online to GitHub
+
+In pushing the local commit to the git repository, we encountered no
+issues. We used both the Graphical User Interface and the RStudio
+command line to try this process and both were successful.
+
+# 12.6: Confirm the local change propagated to the GitHub remote
+
+We both confirmed our changes went through smoothly. Each of us saw our
+edit appear in the GitHub repository and not interfere with the other’s
+addition.
